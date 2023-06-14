@@ -20,17 +20,15 @@ In the highly competitive mobile phone market, understanding the factors that dr
 
 To replicate or build upon this project, follow these steps:
 
-1. Obtain the mobile phone dataset, ensuring it includes relevant features and corresponding price range categories.
+1. Perform exploratory data analysis (EDA) to understand the dataset and identify any preprocessing steps required.
 
-2. Perform exploratory data analysis (EDA) to understand the dataset and identify any preprocessing steps required.
+2. Select and implement a suitable classification algorithm from the available options (decision trees, random forests, SVM, neural networks, etc.).
 
-3. Select and implement a suitable classification algorithm from the available options (decision trees, random forests, SVM, neural networks, etc.).
+3. Split the dataset into training and testing sets, and train the classification model on the training data.
 
-4. Split the dataset into training and testing sets, and train the classification model on the training data.
+4. Evaluate the model's performance using the testing data, employing appropriate evaluation metrics and techniques.
 
-5. Evaluate the model's performance using the testing data, employing appropriate evaluation metrics and techniques.
-
-6. Apply the trained model to new mobile phone data to predict their price range categories and gain valuable insights.
+5. Apply the trained model to new mobile phone data to predict their price range categories and gain valuable insights.
 
 ### Conclusion
 
