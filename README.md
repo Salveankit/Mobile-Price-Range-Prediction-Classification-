@@ -32,4 +32,4 @@ To replicate or build upon this project, follow these steps:
 
 ### Conclusion
 
-The Mobile Price Range Prediction Classification project provides a framework to predict the price range of mobile phones based on their features. By leveraging machine learning and classification techniques, businesses can gain valuable insights into the pricing dynamics of the mobile phone market and make informed decisions.
+The Mobile Price Range Prediction Classification project provides a framework to predict the price range of mobile phones based on their features. By using machine learning and classification techniques, businesses can gain valuable insights into the pricing dynamics of the mobile phone market and make informed decisions.
