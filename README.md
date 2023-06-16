@@ -18,7 +18,7 @@ In the highly competitive mobile phone market, understanding the factors that dr
 
 ### Usage
 
-To replicate or build upon this project, follow these steps:
+To  build upon this project, follow these steps:
 
 1. Perform exploratory data analysis (EDA) to understand the dataset and identify any preprocessing steps required.
 
