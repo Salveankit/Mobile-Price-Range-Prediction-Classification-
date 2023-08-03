@@ -1,3 +1,4 @@
+![logo](Bike-Sharing-Demand-1194x501.jpg)
 ## Mobile Price Range Prediction Classification:
 
 This project aims to predict the price range of mobile phones based on their features using classification techniques. The goal is to categorize mobile phones into different price ranges rather than predicting the exact price.
