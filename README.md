@@ -2,11 +2,11 @@
 
 This project aims to predict the price range of mobile phones based on their features using classification techniques. The goal is to categorize mobile phones into different price ranges rather than predicting the exact price.
 
-### Overview
+### Overview:
 
 In the highly competitive mobile phone market, understanding the factors that drive prices is crucial for companies. This project offers a solution by analyzing mobile phone data and building a classification model to predict the price range category. The model can provide valuable insights for businesses to make informed decisions regarding pricing strategies, marketing, and product development.
 
-### Key Steps
+### Key Steps:
 
 1. Exploratory Data Analysis (EDA): The dataset is thoroughly examined to gain insights into the relationships between mobile phone features and price ranges. EDA includes analyzing price range distributions, identifying correlations, detecting outliers, and uncovering trends and patterns.
 
@@ -16,7 +16,7 @@ In the highly competitive mobile phone market, understanding the factors that dr
 
 4. Prediction and Insights: The trained model is applied to new, unseen mobile phone data to predict their price range categories. These predictions offer valuable insights into the factors driving prices, empowering businesses to make data-driven decisions.
 
-### Usage
+### Usage:
 
 To  build upon this project, follow these steps:
 
@@ -30,6 +30,6 @@ To  build upon this project, follow these steps:
 
 5. Apply the trained model to new mobile phone data to predict their price range categories and gain valuable insights.
 
-### Conclusion
+### Conclusion:
 
 The Mobile Price Range Prediction Classification project provides a framework to predict the price range of mobile phones based on their features. By using machine learning and classification techniques, businesses can gain valuable insights into the pricing dynamics of the mobile phone market and make informed decisions.
